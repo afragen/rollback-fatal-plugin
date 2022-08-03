@@ -12,7 +12,8 @@
  * License:           MIT
  * Requires at least: 5.9
  * Requires PHP:      5.6
- * GitHub Plugin URI:   https://github.com/afragen/fatal-plugin
+ * GitHub Plugin URI: https://github.com/afragen/fatal-plugin
+ * Primary Branch:    main
  */
 
 // Will PHP fatal when activated.
