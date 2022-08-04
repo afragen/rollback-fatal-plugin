@@ -1,10 +1,10 @@
 <?php
 /**
- * Auto-update fatal error check test plugin.
+ * Rollback Auto-Update test plugin.
  *
- * @package AutoUpdateFatalErrorCheck
+ * @package RollbackAutoUpdateTestPlugin
  *
- * Plugin Name:       Auto-update Fatal Error Check Test Plugin
+ * Plugin Name:       Rollback Auto-Update Test Plugin
  * Plugin URI:        https://github.com/afragen/fatal-plugin
  * Description:       Set local version to 0 and comment code from plugin for testing.
  * Version:           0.2.0
