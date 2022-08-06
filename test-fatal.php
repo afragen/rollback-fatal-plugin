@@ -4,9 +4,9 @@
  *
  * @package RollbackAutoUpdateTestPlugin
  *
- * Plugin Name:       Rollback Auto-Update Test Plugin
+ * Plugin Name:       Rollback Auto-Update Test Fatal Plugin
  * Plugin URI:        https://github.com/afragen/fatal-plugin
- * Description:       Set local version to 0 and comment code from plugin for testing.
+ * Description:       Set local version to 0 and comment code from plugin for testing. DO NOT ACTIVATE WITHOUT COMMENTING OUT CODE!!
  * Version:           0.2.0
  * Author:            WP Core Contributors
  * License:           MIT
