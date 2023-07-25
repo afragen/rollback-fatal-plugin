@@ -6,8 +6,8 @@
  *
  * Plugin Name:       Rollback Auto-Update Test Fatal Plugin
  * Plugin URI:        https://github.com/afragen/rollback-fatal-plugin
- * Description:       Set local version to 0 and comment code from plugin for testing. DO NOT ACTIVATE WITHOUT COMMENTING OUT CODE!!
- * Version:           0.2.0
+ * Description:       Safe version, OK to Activate.
+ * Version:           0.1.0
  * Author:            WP Core Contributors
  * License:           MIT
  * Requires at least: 5.9
@@ -16,5 +16,4 @@
  * Primary Branch:    main
  */
 
-// Will PHP fatal when activated.
-require 'file-not-found.php';
+// This space intentionally left blank.
